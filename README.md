@@ -1,2 +1,0 @@
-* Dariusz Głodek
-* Piotr Karczmarczyk
